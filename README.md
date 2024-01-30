@@ -12,7 +12,7 @@ The Colab notebook, all the necessary [Python Code](https://github.com/Zeba-Kaus
 
 
 
-  ![imag](https://github.com/Zeba-Kauser/Web-Scraping_Project/blob/main/Report_image.PNG)
+  ![imag](https://github.com/Zeba-Kauser/WebScrapping_/blob/main/Report_image.PNG?raw=true)
 
 ### The report features:
 
