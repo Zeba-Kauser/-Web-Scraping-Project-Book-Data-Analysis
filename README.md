@@ -1,5 +1,5 @@
 # Web Scraping Project : Book Data Analysis 
- [Interactive Power BI Report](https://app.powerbi.com/links/-LFnpWfaLb?ctid=92db908c-acdb-4a08-b97a-fbb156264652&pbi_source=linkShare)
+ [Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNDg3OTQwNmYtYTRjMS00M2E4LWI5MGQtZGYzMDdhOWQ3ZjVhIiwidCI6IjkyZGI5MDhjLWFjZGItNGEwOC1iOTdhLWZiYjE1NjI2NDY1MiJ9)
 
 
 ## About
