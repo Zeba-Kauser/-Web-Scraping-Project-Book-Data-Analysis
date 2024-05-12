@@ -8,20 +8,20 @@ This Python project is all about gathering useful details from the [Books to Scr
 
 The Colab notebook, all the necessary [Python Code](https://github.com/Zeba-Kauser/Web-Scraping_Project/blob/main/All_codes.ipynb) are provided for web scraping. [Data Source](https://github.com/Zeba-Kauser/Web-Scraping_Project/blob/main/All_products.csv)
 
-**Power BI  Report**
+## **Power BI  Report**
 
 
 
-  ![imag](https://github.com/Zeba-Kauser/WebScrapping_/blob/main/Report_image.PNG?raw=true)
+  ![imag](https://github.com/Zeba-Kauser/Imges/blob/main/BookAnalysis.png?raw=true)
 
 ### The report features:
 
-**Card:** Explore the total number of books.
+- **Card:** Explore the total number of books.
 
-**Dynamic Slicers:**  To filter the report based on book rating and category.
+- **Dynamic Slicers:**  To filter the report based on book rating and category.
 
-**Top & Bottom Cards:** The most expensive and cheapest book, with details like title, rating, price, and image.
+- **Top & Bottom Cards:** The most expensive and cheapest book, with details like title, rating, price, and image.
 
-**Visual Representation:** Visual to display of book titles, giving you a snapshot of the entire collection.
+- **Visual Representation:** Visual to display of book titles, giving you a snapshot of the entire collection.
 
-**Tooltip Magic:** Hover over any title to unveil a tooltip page, delivering detailed insights – title, rating, price, and image. It's an interactive experience!
+- **Tooltip Magic:** Hover over any title to unveil a tooltip page, delivering detailed insights – title, rating, price, and image. It's an interactive experience!
